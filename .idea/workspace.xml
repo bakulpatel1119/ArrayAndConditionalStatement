@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e381f7eb-ccef-4d07-b5b6-913658fefa1b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WzVMnXfb0afbINjIvKxp8dzS6X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ReverseFiveDigitNumbes">
+    <configuration name="Count_A_in_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Count_A_in_String" />
+      <module name="ArrayAndConditionalStatement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindSpecificValueofAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindSpecificValueofAnArray" />
+      <module name="ArrayAndConditionalStatement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplicationTable" />
+      <module name="ArrayAndConditionalStatement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenAndSumOf5Digit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OddEvenAndSumOf5Digit" />
+      <module name="ArrayAndConditionalStatement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseFiveDigitNumbes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseFiveDigitNumbes" />
+      <module name="ArrayAndConditionalStatement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReverseFiveDigitNumbes" />
+        <item itemvalue="Application.Extra_Homework_OddEvenAndSumOf5Digit" />
+        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.FindSpecificValueofAnArray" />
+        <item itemvalue="Application.Count_A_in_String" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e381f7eb-ccef-4d07-b5b6-913658fefa1b" name="Default Changelist" comment="" />
+      <created>1580152364187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580152364187</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="34" key="#SortNumericAndStringArray" timestamp="1580167345187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="34" key="#SortNumericAndStringArray/0.0.1366.728@0.0.1366.728" timestamp="1580167345187" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1580331903117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580331903117" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1580331849228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580331849228" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1580331849228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580331849228" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1580331849228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580331849228" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1580331849228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580331849228" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1580210231069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580210231069" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1580245355289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1580245355289" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580323009104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580323009104" />
+  </component>
+</project>
